@@ -1,6 +1,13 @@
 # Rock-Paper-Scissor-Lizard-Spock
 Rock Paper Scissors Lizard Spock in C A fun terminal-based implementation of the Rock-Paper-Scissors-Lizard-Spock game written in C. Features a typewriter-style text display for added drama, interactive gameplay, and clear win/lose logic based on the expanded rules popularized by The Big Bang Theory.
 
+
+---
+
+````markdown
+
+---
+
 ## 🎮 How to Play
 
 The rules are simple — each choice beats two other choices and loses to two others:
@@ -63,4 +70,10 @@ This project is licensed under the [MIT License](LICENSE).
 * Inspired by *The Big Bang Theory*’s twist on the classic game.
 * Made purely for fun and to practice C programming skills.
 
+```
+
+---
+
+If you want, I can also make a **fancy ASCII art title** that appears when the game starts so the README screenshots look even cooler.  
+Do you want me to add that?
 ```
