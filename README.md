@@ -6,7 +6,6 @@ Rock Paper Scissors Lizard Spock in C A fun terminal-based implementation of the
 
 ````markdown
 
----
 
 ## 🎮 How to Play
 
@@ -74,6 +73,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-If you want, I can also make a **fancy ASCII art title** that appears when the game starts so the README screenshots look even cooler.  
-Do you want me to add that?
-```
